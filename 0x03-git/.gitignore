@@ -1,0 +1,12 @@
+# Exclude Emacs temporary files
+*~
+\#*\#
+.\#*
+*.swp
+*.swo
+.DS_Store
+
+# Exclude other common temporary files
+*.log
+*.tmp
+*.bak
